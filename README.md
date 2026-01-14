@@ -1,4 +1,4 @@
-# my-first-project
+#Sales-analysis-project
  Sales Data Analysis Mini Project
 
 ## Overview
